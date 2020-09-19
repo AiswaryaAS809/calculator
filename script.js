@@ -4,3 +4,7 @@ function btnclick(val)
   document.getElementById("screen").value+=val;
 }
 console.log("working");
+console.log("working");
+console.log("working");
+console.log("working");
+console.log("working");
